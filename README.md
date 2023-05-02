@@ -24,4 +24,10 @@ Overall, sleep stage classification from PSG data is an important task in sleep 
 
 
 
+![image](https://user-images.githubusercontent.com/72307203/235562848-31f273eb-c176-4c12-a142-74703aba6f6a.png)
+
+
+
+
+
 
